@@ -1,4 +1,2 @@
 #README.md
-hello world
-hello python
-hello tensorflow
+### this program is used for ADHD Detect
